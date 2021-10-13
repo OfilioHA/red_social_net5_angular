@@ -1,0 +1,10 @@
+@model List<Practica_2.Models.UserModel>
+
+@{
+    foreach (var user in Model)
+    {
+        <a class="list-group-item list-group-item-action" href="/user/details/@user.Id">
+            @user.username
+        </a>
+    }
+}

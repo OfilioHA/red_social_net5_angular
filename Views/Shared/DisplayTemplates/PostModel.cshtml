@@ -1,0 +1,11 @@
+@model Practica_2.Models.PostModel
+
+<div class="card mb-4">
+    <div class="card-body">
+        <h5 class='card-title @((@Model.Id%2) > 0 ? "text-red" : "")'>@Model.title </h5>
+        <a class="card-link author-link" href="/user/details/@Model.userId">- Author link</a>
+        <a class="card-link author-link" href="/Home/Edit/@Model.Id">- Edit Post</a>
+        <a class="card-link author-link" href="/Home/Delete/@Model.Id">- Delete Post</a>
+        <p class="card-text">@Model.body</p>
+    </div>
+</div>

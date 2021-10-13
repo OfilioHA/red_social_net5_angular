@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/ofilio/.dotnet/store/|arch|/|tfm|",
+      "/home/ofilio/.nuget/packages"
+    ]
+  }
+}
