@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ofilio/Documentos/POW II/Practica_2/Practica_2.csproj": {}
+    "/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/Practica_2.csproj": {}
   },
   "projects": {
-    "/home/ofilio/Documentos/POW II/Practica_2/Practica_2.csproj": {
+    "/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/Practica_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ofilio/Documentos/POW II/Practica_2/Practica_2.csproj",
+        "projectUniqueName": "/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/Practica_2.csproj",
         "projectName": "Practica_2",
-        "projectPath": "/home/ofilio/Documentos/POW II/Practica_2/Practica_2.csproj",
-        "packagesPath": "/home/ofilio/.nuget/packages/",
-        "outputPath": "/home/ofilio/Documentos/POW II/Practica_2/obj/",
+        "projectPath": "/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/Practica_2.csproj",
+        "packagesPath": "/home/ofilioha/.nuget/packages/",
+        "outputPath": "/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ofilio/.nuget/NuGet/NuGet.Config"
+          "/home/ofilioha/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

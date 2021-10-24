@@ -42,11 +42,14 @@ namespace Practica_2.Controllers
 
         public async Task Save(IFormCollection formCollection)
         {
+            UserModel userOwner = await _context.Users.Include(user => user.PostsList)
+            .FirstOrDefaultAsync(user => user.Id == 1);
             PostModel post = new PostModel();
             post.title = formCollection["title"];
             post.body = formCollection["body"];
             post.userId = 1;
             _context.Posts.Add(post);
+            userOwner.PostsList.Add(post);
             await _context.SaveChangesAsync();
             Response.Redirect("/");
         }

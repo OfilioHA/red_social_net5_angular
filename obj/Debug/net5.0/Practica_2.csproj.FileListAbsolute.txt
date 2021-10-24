@@ -370,3 +370,747 @@
 /home/ofilio/Documentos/POW II/Practica_2/bin/Debug/net5.0/MySqlConnector.dll
 /home/ofilio/Documentos/POW II/Practica_2/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
 /home/ofilio/Documentos/POW II/Practica_2/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/appsettings.Development.json
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/appsettings.json
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/package-lock.json
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/package.json
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2.deps.json
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2.runtimeconfig.json
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2.runtimeconfig.dev.json
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/ref/Practica_2.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2.pdb
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cors.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Identity.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Metadata.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Session.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.CSharp.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Http.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Core.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Console.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.ObjectPool.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Primitives.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.WebEncoders.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.JSInterop.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Net.Http.Headers.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.VisualBasic.Core.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.VisualBasic.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Win32.Primitives.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Win32.Registry.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/mscorlib.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/netstandard.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.AppContext.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Buffers.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Collections.Concurrent.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Collections.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Collections.Immutable.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Collections.NonGeneric.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Collections.Specialized.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ComponentModel.Annotations.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ComponentModel.DataAnnotations.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ComponentModel.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ComponentModel.EventBasedAsync.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ComponentModel.Primitives.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ComponentModel.TypeConverter.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Configuration.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Console.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Core.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Data.Common.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Data.DataSetExtensions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Data.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.StackTrace.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.Tools.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.TraceSource.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.Tracing.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Drawing.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Drawing.Primitives.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Dynamic.Runtime.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Formats.Asn1.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Globalization.Calendars.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Globalization.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Globalization.Extensions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.Compression.Brotli.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.Compression.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.Compression.FileSystem.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.Compression.ZipFile.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.FileSystem.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.FileSystem.DriveInfo.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.FileSystem.Primitives.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.FileSystem.Watcher.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.IsolatedStorage.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.MemoryMappedFiles.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.Pipelines.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.Pipes.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.UnmanagedMemoryStream.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Linq.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Linq.Expressions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Linq.Parallel.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Linq.Queryable.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Memory.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Http.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Http.Json.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.HttpListener.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Mail.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.NameResolution.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.NetworkInformation.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Ping.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Primitives.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Requests.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Security.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.ServicePoint.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Sockets.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.WebClient.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.WebHeaderCollection.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.WebProxy.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.WebSockets.Client.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.WebSockets.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Numerics.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Numerics.Vectors.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ObjectModel.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.DispatchProxy.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.Emit.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.Emit.ILGeneration.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.Emit.Lightweight.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.Extensions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.Metadata.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.Primitives.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.TypeExtensions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Resources.Reader.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Resources.ResourceManager.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Resources.Writer.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Extensions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Handles.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.InteropServices.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Intrinsics.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Loader.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Numerics.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Serialization.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Serialization.Formatters.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Serialization.Json.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Serialization.Primitives.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Serialization.Xml.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.AccessControl.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Claims.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Cryptography.Algorithms.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Cryptography.Cng.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Cryptography.Csp.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Cryptography.Encoding.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Cryptography.Primitives.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Cryptography.X509Certificates.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Cryptography.Xml.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Permissions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Principal.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Principal.Windows.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.SecureString.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ServiceModel.Web.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ServiceProcess.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Text.Encoding.CodePages.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Text.Encoding.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Text.Encoding.Extensions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Text.Encodings.Web.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Text.Json.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Text.RegularExpressions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Channels.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Overlapped.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Tasks.Dataflow.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Tasks.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Tasks.Extensions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Tasks.Parallel.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Thread.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.ThreadPool.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Timer.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Transactions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Transactions.Local.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ValueTuple.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Web.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Web.HttpUtility.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Windows.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Windows.Extensions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.Linq.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.ReaderWriter.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.Serialization.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.XDocument.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.XmlDocument.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.XmlSerializer.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.XPath.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.XPath.XDocument.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/WindowsBase.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2.Views.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2.Views.pdb
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Humanizer.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/MySqlConnector.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.csproj.AssemblyReference.cache
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.AssemblyInfoInputs.cache
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.AssemblyInfo.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.csproj.CoreCompileInputs.cache
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.MvcApplicationPartsAssemblyInfo.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.MvcApplicationPartsAssemblyInfo.cache
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.RazorAssemblyInfo.cache
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.RazorAssemblyInfo.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/staticwebassets/Practica_2.StaticWebAssets.Manifest.cache
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/staticwebassets/Practica_2.StaticWebAssets.xml
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/scopedcss/bundle/Practica_2.styles.css
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.TagHelpers.input.cache
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.TagHelpers.output.cache
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.RazorCoreGenerate.cache
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Shared/Components/UsersFriends/Default.cshtml.g.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Shared/DisplayTemplates/PostModel.cshtml.g.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Shared/Partials/BuscadorItem.cshtml.g.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Shared/_LayoutCustom.cshtml.g.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/User/Index.cshtml.g.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.RazorTargetAssemblyInfo.cache
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.RazorTargetAssemblyInfo.cs
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.Views.pdb
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.csproj.CopyComplete
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/ref/Practica_2.dll
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.pdb
+/home/ofilio/Documentos/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.genruntimeconfig.cache
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/appsettings.Development.json
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/appsettings.json
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/package-lock.json
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/package.json
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2.deps.json
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2.runtimeconfig.json
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2.runtimeconfig.dev.json
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/ref/Practica_2.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2.pdb
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cors.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Identity.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Metadata.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Session.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.CSharp.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Http.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Core.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Console.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.ObjectPool.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.Primitives.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Extensions.WebEncoders.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.JSInterop.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Net.Http.Headers.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.VisualBasic.Core.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.VisualBasic.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Win32.Primitives.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/Microsoft.Win32.Registry.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/mscorlib.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/netstandard.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.AppContext.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Buffers.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Collections.Concurrent.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Collections.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Collections.Immutable.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Collections.NonGeneric.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Collections.Specialized.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ComponentModel.Annotations.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ComponentModel.DataAnnotations.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ComponentModel.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ComponentModel.EventBasedAsync.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ComponentModel.Primitives.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ComponentModel.TypeConverter.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Configuration.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Console.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Core.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Data.Common.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Data.DataSetExtensions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Data.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.StackTrace.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.Tools.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.TraceSource.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Diagnostics.Tracing.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Drawing.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Drawing.Primitives.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Dynamic.Runtime.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Formats.Asn1.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Globalization.Calendars.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Globalization.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Globalization.Extensions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.Compression.Brotli.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.Compression.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.Compression.FileSystem.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.Compression.ZipFile.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.FileSystem.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.FileSystem.DriveInfo.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.FileSystem.Primitives.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.FileSystem.Watcher.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.IsolatedStorage.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.MemoryMappedFiles.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.Pipelines.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.Pipes.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.IO.UnmanagedMemoryStream.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Linq.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Linq.Expressions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Linq.Parallel.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Linq.Queryable.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Memory.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Http.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Http.Json.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.HttpListener.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Mail.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.NameResolution.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.NetworkInformation.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Ping.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Primitives.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Requests.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Security.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.ServicePoint.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.Sockets.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.WebClient.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.WebHeaderCollection.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.WebProxy.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.WebSockets.Client.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Net.WebSockets.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Numerics.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Numerics.Vectors.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ObjectModel.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.DispatchProxy.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.Emit.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.Emit.ILGeneration.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.Emit.Lightweight.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.Extensions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.Metadata.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.Primitives.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Reflection.TypeExtensions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Resources.Reader.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Resources.ResourceManager.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Resources.Writer.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Extensions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Handles.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.InteropServices.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Intrinsics.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Loader.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Numerics.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Serialization.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Serialization.Formatters.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Serialization.Json.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Serialization.Primitives.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Runtime.Serialization.Xml.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.AccessControl.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Claims.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Cryptography.Algorithms.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Cryptography.Cng.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Cryptography.Csp.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Cryptography.Encoding.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Cryptography.Primitives.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Cryptography.X509Certificates.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Cryptography.Xml.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Permissions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Principal.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.Principal.Windows.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Security.SecureString.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ServiceModel.Web.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ServiceProcess.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Text.Encoding.CodePages.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Text.Encoding.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Text.Encoding.Extensions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Text.Encodings.Web.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Text.Json.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Text.RegularExpressions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Channels.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Overlapped.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Tasks.Dataflow.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Tasks.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Tasks.Extensions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Tasks.Parallel.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Thread.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.ThreadPool.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Threading.Timer.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Transactions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Transactions.Local.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.ValueTuple.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Web.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Web.HttpUtility.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Windows.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Windows.Extensions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.Linq.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.ReaderWriter.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.Serialization.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.XDocument.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.XmlDocument.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.XmlSerializer.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.XPath.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/System.Xml.XPath.XDocument.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/refs/WindowsBase.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2.Views.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Practica_2.Views.pdb
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Humanizer.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/MySqlConnector.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Newtonsoft.Json.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.csproj.AssemblyReference.cache
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.GeneratedMSBuildEditorConfig.editorconfig
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.AssemblyInfoInputs.cache
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.AssemblyInfo.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.csproj.CoreCompileInputs.cache
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.MvcApplicationPartsAssemblyInfo.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.MvcApplicationPartsAssemblyInfo.cache
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.RazorAssemblyInfo.cache
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.RazorAssemblyInfo.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/staticwebassets/Practica_2.StaticWebAssets.Manifest.cache
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/staticwebassets/Practica_2.StaticWebAssets.xml
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/scopedcss/bundle/Practica_2.styles.css
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.TagHelpers.input.cache
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.TagHelpers.output.cache
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.RazorCoreGenerate.cache
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Shared/Components/UsersFriends/Default.cshtml.g.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Shared/DisplayTemplates/PostModel.cshtml.g.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Shared/Partials/BuscadorItem.cshtml.g.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Shared/_LayoutCustom.cshtml.g.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/User/Index.cshtml.g.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.RazorTargetAssemblyInfo.cache
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.RazorTargetAssemblyInfo.cs
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.Views.pdb
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/ref/Practica_2.dll
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.pdb
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.genruntimeconfig.cache
+/media/ofilioha/Nuevo vol/Documents/POW II/red_social_net5_angular/obj/Debug/net5.0/Practica_2.csproj.CopyComplete
