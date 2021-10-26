@@ -19,7 +19,7 @@ namespace Practica_2.ViewComponents{
         public async Task<IViewComponentResult> InvokeAsync(){
             //UserServices userServices = new UserServices();
             //userFriendsList = await userServices.getlistUsers();
-            userFriendsList = await _context.Users.ToListAsync();
+            userFriendsList = await _context.UsersApp.ToListAsync();
             return View(userFriendsList);
         }
     }

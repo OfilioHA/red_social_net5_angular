@@ -27,7 +27,7 @@ namespace Practica_2.Controllers
         public async Task<IActionResult> Index()
         {
             //Get data from DataBase
-            List<UserModel> userList = await _context.Users
+            List<UserModel> userList = await _context.UsersApp
                 .Include(user => user.PostsList)
                 .ToListAsync();
 
@@ -42,7 +42,7 @@ namespace Practica_2.Controllers
 
         public async Task Save(IFormCollection formCollection)
         {
-            UserModel userOwner = await _context.Users.Include(user => user.PostsList)
+            UserModel userOwner = await _context.UsersApp.Include(user => user.PostsList)
             .FirstOrDefaultAsync(user => user.Id == 1);
             PostModel post = new PostModel();
             post.title = formCollection["title"];

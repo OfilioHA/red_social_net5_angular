@@ -27,7 +27,7 @@ namespace Practica_2.Controllers
 
         public async Task<IActionResult> details(int Id){
             
-            UserModel user = await _context.Users
+            UserModel user = await _context.UsersApp
                 .Include(user => user.PostsList)
                 //.Include(user => user.AlbumList.Select(photos => photos.PhotosList))
                 .Include(user => user.ToDoList)
